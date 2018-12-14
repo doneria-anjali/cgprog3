@@ -1,5 +1,4 @@
-#CSC 561 - Programming Assignment 3
-#Anjali Doneria, adoneri, 200200056
+This assignment is developed for credits of CSC 561.
 
 #Part 1
 To render unlit triangles, set light = false in javascript code at line 881.
@@ -41,3 +40,5 @@ Interactively transform model
 
 #extra-credits finished
 1. smooth shading with vertex normals
+
+Department of Computer Science, North Carolina State University, Raleigh.
